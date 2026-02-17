@@ -37,4 +37,4 @@ When reporting an issue, include:
 - Ruby Console error text (Window → Ruby Console), if any
 
 ## Contact
-Support email: autoprop.precast.creator@gmail.com
+Support email: autopropcolumncreator@gmail.com
