@@ -40,3 +40,7 @@ When reporting an issue, include:
 - Support page: https://github.com/TheDankMan/autoprop-precast-column-creator
 - Report a bug / request a feature: https://github.com/TheDankMan/autoprop-precast-column-creator/issues
 
+- ## Current version
+1.0.4 (Extension Warehouse)
+
+
