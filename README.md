@@ -36,5 +36,7 @@ When reporting an issue, include:
 - Screenshot
 - Ruby Console error text (Window → Ruby Console), if any
 
-## Contact
-Support email: autopropcolumncreator@gmail.com
+## Links
+- Support page: https://github.com/TheDankMan/autoprop-precast-column-creator
+- Report a bug / request a feature: https://github.com/TheDankMan/autoprop-precast-column-creator/issues
+
